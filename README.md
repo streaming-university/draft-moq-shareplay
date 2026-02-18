@@ -1,6 +1,6 @@
 # Synchronized Video-on-Demand (VoD) Viewing with Media over QUIC Transport
 
-This is the working area for the Internet-Draft, "Synchronized Video-on-Demand (VoD) Viewing with Media over QUIC Transpor".
+This is the working area for the Internet-Draft, "Synchronized Video-on-Demand (VoD) Viewing with Media over QUIC Transport".
 
 * [Editor's Copy](https://moqtail.github.io/draft-moq-shareplay/#go.draft-pehlivanoglu-moq-shareplay.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-pehlivanoglu-moq-shareplay)
